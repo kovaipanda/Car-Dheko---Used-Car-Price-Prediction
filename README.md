@@ -98,6 +98,13 @@ Rfixthecode(val, max, min): Rescales the predicted price back to the original ra
 predict_price(model, input_data): Uses the pre-trained model to predict the car price based on user inputs.
 Streamlit UI: Provides the user interface for input collection and displays the predicted price.
 
+
+![image](https://github.com/user-attachments/assets/bfddceac-8ed5-48df-b2dc-3aae6ecf2e3a)
+
+![image](https://github.com/user-attachments/assets/8242e7c6-4b78-4336-895b-7005c6a1b106)
+
+![image](https://github.com/user-attachments/assets/fdcaff15-d7b5-4b17-b194-4ff1987581d0)
+
 ![image](https://github.com/user-attachments/assets/9dfa73a3-da20-48ff-aadb-23d19830ccdb)
 
 ![image](https://github.com/user-attachments/assets/11fdb83b-e4df-43c7-bbcb-e179ec6212de)
